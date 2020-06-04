@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="barcode_success">Barcode read successfully</string>
+    <string name="barcode_failure">No barcode captured</string>
+    <string name="barcode_configuration_failed">Camera configuration failed</string>
+    <string name="barcode_error">"Error reading barcode"</string>
+    <string name="barcode_no_camera">No camera</string>
+    <string name="barcode_no_camera_permission">Cannot read barcodes without camera permission</string>
+    <string name="barcode_gms_missing">GMS missing</string>
+    <string name="barcode_no_detector">No barcode detector available</string>
+    <string name="exit_barcode_capture">Quit</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Barcode Reader Sample</string>
+    <string name="barcode_header">Click &quot;Read Barcode&quot; to read a barcode</string>
+    <string name="read_barcode">Read Barcode</string>
+</resources>
